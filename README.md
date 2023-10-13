@@ -1,6 +1,6 @@
 # C++ Tutorial
 
-C++ tutorial and documentation will be here with some examples.
+C++ tutorial and documentation will be here with some examples. This repository will contain tutorial and documentation of C++ language. Here's <a href="https://youtu.be/8jLOx1hD3_o?si=gGYNAI9qUsr3PlnI" target="_blank">tutorial link</a>. After watching and deeply learning of tutorial, start documenting C++ features, algorithms, syntax, etc.
 
 ## Content
 
