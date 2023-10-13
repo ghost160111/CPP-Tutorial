@@ -1,0 +1,2 @@
+# Inheriting base constructors
+

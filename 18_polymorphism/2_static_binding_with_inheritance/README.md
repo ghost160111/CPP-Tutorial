@@ -1,0 +1,2 @@
+# Static binding with inheritance
+

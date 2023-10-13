@@ -1,0 +1,2 @@
+# Reused symbols in inheritance
+

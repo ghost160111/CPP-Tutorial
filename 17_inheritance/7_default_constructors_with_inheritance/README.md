@@ -1,0 +1,2 @@
+# Default constructors with inheritance
+

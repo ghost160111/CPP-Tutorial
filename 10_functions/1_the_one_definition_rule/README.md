@@ -1,0 +1,2 @@
+# The one definition rule
+

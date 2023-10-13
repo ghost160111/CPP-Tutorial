@@ -1,0 +1,2 @@
+# Custom constructors with inheritance
+
